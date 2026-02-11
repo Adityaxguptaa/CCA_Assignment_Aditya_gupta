@@ -44,6 +44,9 @@ They handle operator precedence, parentheses, and evaluation order, especially i
 4. For closing brackets, pop and check matching.
 5. If stack is empty at the end → Balanced.
 
+
+![Stack Diagram](demo.png)
+
 ### Java Program
 ```java
 import java.util.Stack;
@@ -133,7 +136,7 @@ public class ReverseArrayUsingStack {
     }
 }
 
-![Alt Image](demo.png)
+
 
 
 | Operation                  | Time Complexity |
