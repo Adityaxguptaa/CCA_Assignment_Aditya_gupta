@@ -1,6 +1,4 @@
-# 📘 Stack – Application Based Assignment (Complete Solution)
 
----
 
 ## 🔹 Part A: Application-Based Questions
 
