@@ -133,6 +133,9 @@ public class ReverseArrayUsingStack {
     }
 }
 
+![Alt Image](demo.png)
+
+
 | Operation                  | Time Complexity |
 | -------------------------- | --------------- |
 | Push                       | O(1)            |
