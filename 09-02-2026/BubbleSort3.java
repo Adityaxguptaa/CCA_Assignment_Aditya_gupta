@@ -1,4 +1,4 @@
-package Capgg;
+package practice;
 class Student8{
     String name;
     int m1;
