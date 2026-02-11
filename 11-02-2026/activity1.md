@@ -43,6 +43,8 @@ It follows the **LIFO (Last In First Out)** principle, which means the last elem
 | Push(40) | 10, 20, 40 | 2 |
 | Peek() | 10, 20, **40** | 2 |
 
+![Stack Diagram](demo2.jpeg)
+
 
 ## Part C: Java Program – Stack Using Array (User Input)
 
