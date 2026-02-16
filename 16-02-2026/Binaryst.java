@@ -77,7 +77,7 @@ class BST {
 public class Binaryst {
     public static void main(String[] args) {
 
-        System.out.println("===== Binary Search Tree =====");
+        System.out.println("Binary Search Tree");
 
         BST tree = new BST();
 
@@ -102,7 +102,7 @@ public class Binaryst {
         System.out.println("Search 40: " + (tree.search(tree.root, 40) ? "Found" : "Not Found"));
         System.out.println("Search 100: " + (tree.search(tree.root, 100) ? "Found" : "Not Found"));
 
-        System.out.println("\n===== Min Heap (PriorityQueue) =====");
+        System.out.println("\n Min Heap (PriorityQueue)=");
 
         PriorityQueue<Integer> minHeap = new PriorityQueue<>();
         Random rand = new Random();
